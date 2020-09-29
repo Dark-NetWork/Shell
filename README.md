@@ -1,6 +1,8 @@
-php cmd shell
+php cmd shell >
 
-jpg cmd shell
+jpg cmd shell >
+
+Hidden Upload Shell >
 
 Firewall Bypass Shell
 
