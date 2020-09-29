@@ -1,4 +1,4 @@
-php cmd shell >
+php cmd shell > cmd.php 
 
 jpg cmd shell >
 
