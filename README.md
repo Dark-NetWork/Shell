@@ -2,6 +2,8 @@ php cmd shell > cmd.php
 
 jpg cmd shell > cmd.jpg
 
+/etc/passwd Pulling Shell > etc-passwd.php
+
 Configuration Pulling Shell > config.php
 
 cPanel Auto Subdomain Generator Shell > subdomain.php
