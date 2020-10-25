@@ -4,6 +4,8 @@ jpg cmd shell > cmd.jpg
 
 Configuration Pulling Shell > config.php
 
+cPanel Auto Subdomain Generator Shell > subdomain.php
+
 # Firewall Bypass Shell
 
 view-source:http://localhost/cmd.php?function=system&command=
