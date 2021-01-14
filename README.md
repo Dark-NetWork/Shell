@@ -1,6 +1,8 @@
-php cmd shell > cmd.php 
+PHP Reverse Shell > reverse-shell.php
 
-jpg cmd shell > cmd.jpg
+PHP Cmd Shell > cmd.php 
+
+JPG cmd Shell > cmd.jpg
 
 /etc/passwd Pulling Shell > etc-passwd.php
 
